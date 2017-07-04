@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    $('body').on('scroll', function() {
-        $(':focus').blur();
+   $(window).scroll(function(){
+       $(':focus').blur();
     });
 });
