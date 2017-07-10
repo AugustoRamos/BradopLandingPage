@@ -92,7 +92,7 @@ a:hover {
   color: #eee;
 }
 .navbar-default .navbar-toggle{
-    background-color: #FFF;
+  background-color: #FFF;
 }
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
@@ -110,8 +110,10 @@ a:hover {
   background: #fff;
 }
 #hero-area {
-  background: #34495e;
-  color: #fff;
+ background: #34495e;
+ color: #fff;
+  /*  background: url(../img/hero/a32-int.jpg) no-repeat center center;
+  background-size: cover;*/
 }
 #hero-area .btn {
   margin-right: 20px;
