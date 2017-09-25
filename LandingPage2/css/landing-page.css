@@ -172,3 +172,7 @@ p.copyright {
 .logo{
     max-width: 140px;
 }
+
+.popover{
+    max-width: 100%;
+}
