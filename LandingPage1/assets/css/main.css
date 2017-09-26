@@ -36,7 +36,8 @@ a:hover {
   background: #3d566e;
   color: #fff;
 }
-.btn-common:hover {
+
+.btn-common:visited, .btn-common:hover, .btn-common:focus {
   background: #3D5685;
   color: #fff;
 }
